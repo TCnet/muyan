@@ -13,7 +13,7 @@ User.create!(name:  "nbtcnet",
              activated: true,
              activated_at: Time.zone.now)
 
-User.create!(name:  "thunderstar",
+User.create!(name:  "muyan",
              email: "thunderstarlxx@outlook.com",
              password:              "111111",
              password_confirmation: "111111",
