@@ -3,7 +3,7 @@ module ApplicationHelper
   def full_title(page_title = '')
     
   # 根据所在的页面返回完整的标题 def full_title(page_title = '')
-    base_title = "THUNDERSTAR XERP for Amazon"
+    base_title = "MUYAN XERP for Amazon"
     if page_title.empty?
       base_title
     else
